@@ -6,7 +6,7 @@
 # Barnard
 # McPhail
 # Kinsey
-# AcademicFreedom
+# SB202
 # IUPUI
 # IGWC
 # VoNC
@@ -184,9 +184,9 @@
   link: "https://iub-organizing-collective.github.io/content/files/AAUP_Report_Spring_2024.pdf"
   source: "AAUP Bloomington Chapter"
   date: "2024-3-"
-  topic: ""
+  topic: "Sinno"
   doctype: "Formal statements"
-  media: "Sinno"
+  media: ""
 
 - title: "Whitten Reinstate Samia Halaby Retrospective Toolkit"
   shortdesc: "Toolkit and materials on reinstating Samia Halaby's exhibtion."
@@ -220,7 +220,16 @@
   link: ""
   source: ""
   date: "2024-1-16"
-  topic: ""
+  topic: "Halaby"
+  doctype: "Formal statements"
+  media: ""
+
+- title: "Letter to Indiana University regarding academic freedom violations against Professor Abdelkader Sinno and artist Samia Halaby"
+  shortdesc: "Middle East Studies Association's open letter to IU administration regarding Samia Halaby's cancellation and Professor Sinno Abdelkader's suspension."
+  link: ""
+  source: ""
+  date: "2024-1-16"
+  topic: "Sinno"
   doctype: "Formal statements"
   media: ""
 
@@ -283,7 +292,16 @@
   link: "https://www.heraldtimesonline.com/story/news/education/campus/2024/02/08/indiana-university-administration-criticized-for-halaby-sinno-decisions/72508698007/"
   source: "The Herald-Times"
   date: "2024--"
-  topic: ""
+  topic: "Sinno"
+  doctype: "Media Coverage"
+  media: ""
+
+- title: "A new McCarthyism': Students, faculty worries about pro-Palestine censorship at IU"
+  shortdesc: ""
+  link: "https://www.heraldtimesonline.com/story/news/education/campus/2024/02/08/indiana-university-administration-criticized-for-halaby-sinno-decisions/72508698007/"
+  source: "The Herald-Times"
+  date: "2024--"
+  topic: "Halaby"
   doctype: "Media Coverage"
   media: ""
 
@@ -292,7 +310,16 @@
   link: "https://www.chronicle.com/article/when-a-threat-becomes-an-excuse-to-muzzle"
   source: "The Chronicle of Higher Education"
   date: "2024-2-6"
-  topic: ""
+  topic: "Sinno"
+  doctype: "Media Coverage"
+  media: ""
+
+- title: "When a Threat Becomes an Excuse to Muzzle"
+  shortdesc: "A sweeping punishmnet, a canceled art show, and the silencing of pro-Palestinian voices. "
+  link: "https://www.chronicle.com/article/when-a-threat-becomes-an-excuse-to-muzzle"
+  source: "The Chronicle of Higher Education"
+  date: "2024-2-6"
+  topic: "Halaby"
   doctype: "Media Coverage"
   media: ""
 
@@ -346,7 +373,7 @@
   link: "https://www.youtube.com/watch?v=fWiWOT4V2HA"
   source: "Democracy Now!"
   date: "2024-1-18"
-  topic: ""
+  topic: "Halaby"
   doctype: "Media Coverage"
   media: ""
 
@@ -355,7 +382,7 @@
   link: "https://artasiapacific.com/news/university-cancels-palestinian-artist-s-retrospective"
   source: "ArtAsiaPacific"
   date: "2024-1-11"
-  topic: ""
+  topic: "Halaby"
   doctype: "Media Coverage"
   media: ""
 
@@ -382,7 +409,7 @@
   link: "https://indianapublicmedia.org/news/iu-eskenazi-art-museum-cancels-palestinian-artists-exhibition.php"
   source: "Indiana Public Media "
   date: "2024-1-11"
-  topic: ""
+  topic: "Halaby"
   doctype: "Media Coverage"
   media: ""
 
@@ -454,7 +481,25 @@
   link: "https://www.thefire.org/news/free-speech-controversies-mount-indiana-university-faculty-pitch-vote-no-confidence-university"
   source: "FIRE (Foundation for Individual Rights & Freedom)"
   date: "2024-4-10"
-  topic: ""
+  topic: "Halaby"
+  doctype: "Formal statements"
+  media: ""
+
+- title: "As free speech controversies mount, Indiana University faculty pitch vote of no confidence in university leadership"
+  shortdesc: "IU’s postponement of an event featuring Hamas critic Mosab Hassan Yousef is the latest in a long line of recent free speech issues at the university. "
+  link: "https://www.thefire.org/news/free-speech-controversies-mount-indiana-university-faculty-pitch-vote-no-confidence-university"
+  source: "FIRE (Foundation for Individual Rights & Freedom)"
+  date: "2024-4-10"
+  topic: "Sinno"
+  doctype: "Formal statements"
+  media: ""
+
+- title: "As free speech controversies mount, Indiana University faculty pitch vote of no confidence in university leadership"
+  shortdesc: "IU’s postponement of an event featuring Hamas critic Mosab Hassan Yousef is the latest in a long line of recent free speech issues at the university. "
+  link: "https://www.thefire.org/news/free-speech-controversies-mount-indiana-university-faculty-pitch-vote-no-confidence-university"
+  source: "FIRE (Foundation for Individual Rights & Freedom)"
+  date: "2024-4-10"
+  topic: "VoNC"
   doctype: "Formal statements"
   media: ""
 
@@ -535,7 +580,7 @@
   link: "https://www.oah.org/2024/02/16/oah-submits-letter-of-concern-about-indiana-sb-202/"
   source: "Organization of American Historians"
   date: "2024-2-16"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Formal statements"
   media: ""
 
@@ -544,7 +589,7 @@
   link: "https://www.historians.org/news-and-advocacy/aha-advocacy/aha-letter-to-indiana-legislature-opposing-intellectual-diversity-tenure-bill-(february-2024)"
   source: "American Historical Association"
   date: "2024-2-20"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Formal statements"
   media: ""
 
@@ -553,7 +598,7 @@
   link: "https://www.thefire.org/news/indianas-sb-202-holds-promise-needs-changes-protect-academic-freedom"
   source: "FIRE (Foundation for Individual Rights & Freedom)"
   date: "2024-2-21"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Formal statements"
   media: ""
 
@@ -562,7 +607,7 @@
   link: "https://inaaup.wordpress.com/wp-content/uploads/2024/02/mla-statement_indiana-sb-202.pdf"
   source: "Modern Language Association"
   date: "2024-2-21"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Formal statements"
   media: ""
 
@@ -571,7 +616,7 @@
   link: "https://www.acls.org/news/american-historical-association-sends-letter-to-indiana-legislature-opposing-intellectual-diversity-tenure-bill/"
   source: "American Council of Learned Societies"
   date: "2024-2-22"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Formal statements"
   media: ""
 
@@ -580,7 +625,7 @@
   link: "https://inaaup.wordpress.com/wp-content/uploads/2024/03/aaa-statement_indiana-sb202.pdf"
   source: "American Anthropological Association"
   date: "2024-3-1"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Formal statements"
   media: ""
 
@@ -589,7 +634,7 @@
   link: "https://politicalsciencenow.com/statement-on-indiana-senate-bill-202/"
   source: "American Political Science Association"
   date: "2024-3-7"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Formal statements"
   media: ""
 
@@ -598,7 +643,7 @@
   link: "https://classicalstudies.org/scs-news/scs-board-directors-endorses-aha-letter-indiana-legislature-opposing-sb-202"
   source: "Society for Classical Studies"
   date: "2024-2-23"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Formal statements"
   media: ""
 
@@ -607,7 +652,7 @@
   link: "https://heartlandradical.blogspot.com/2024/02/threats-to-academic-freedom-are.html"
   source: "Harry Targ"
   date: "2024-2-28"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Open letters and testimonials"
   media: ""
 
@@ -616,7 +661,7 @@
   link: "https://camws.org/"
   source: "Classical Association of the Middle West and South"
   date: "2024-3-1"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Formal statements"
   media: ""
 
@@ -625,7 +670,7 @@
   link: "https://www.waldtaube.org/2024/02/27/for-the-sake-of-indianas-economy-please-slow-down-on-sb202/"
   source: "Waldtaube"
   date: "2024-3-1"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: ""
   media: ""
 
@@ -634,7 +679,7 @@
   link: "https://www.idsnews.com/article/2024/02/whitten-describes-iu-antisemitism-prevention-safety-measures-response-jim-banks"
   source: "Indiana Daily Student"
   date: "2024-2-21"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -643,7 +688,7 @@
   link: "https://www.idsnews.com/article/2024/02/iu-investigated-by-department-of-education-for-alleged-antisemitism"
   source: "Indiana Daily Student"
   date: "2024-2-9"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -652,7 +697,7 @@
   link: "https://inaaup.wordpress.com/2023/12/23/iub-faculty-respond-to-congressman-jim-banks/"
   source: "Indiana Conference of the American Association of University Professors"
   date: "2023-12-23"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Formal statements"
   media: ""
 
@@ -661,7 +706,7 @@
   link: "https://banks.house.gov/news/documentsingle.aspx?DocumentID=2223"
   source: "U.S. Congressman Jim Banks"
   date: "2023-11-15"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Other Media"
   media: ""
 
@@ -670,7 +715,7 @@
   link: "https://againstthecurrent.org/atc228/weaponizing-antisemitism-the-battle-at-indiana-university/"
   source: "Against the Current"
   date: "2023-2-1"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -679,7 +724,7 @@
   link: "https://www.thenation.com/article/society/jim-banks-indiana-university-antisemitism/"
   source: "The Nation"
   date: "2023-11-29"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -688,7 +733,7 @@
   link: "https://www.counterpunch.org/2022/09/02/under-attack-tenure-and-academic-freedom/"
   source: "Counterpunch"
   date: "2022-9-2"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -697,7 +742,7 @@
   link: "https://www.idsnews.com/article/2024/02/palestine-solidarity-committee-vigil-palestinians-killed-gaza"
   source: "Indiana Daily Student"
   date: "2024-2-4"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -706,7 +751,7 @@
   link: "https://www.chronicle.com/article/the-lunacy-of-indianas-intellectual-diversity-law?cid=at"
   source: "Chronicle of Higher Education"
   date: "2024-4-10"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -715,7 +760,7 @@
   link: "https://indianacapitalchronicle.com/2024/02/19/senate-bill-202-what-exactly-is-intellectual-diversity/"
   source: "Indiana Capital Chronicle"
   date: "2024-2-19"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -724,7 +769,7 @@
   link: "https://www.chronicle.com/article/new-bill-in-indiana-would-tie-tenure-to-professors-likelihood-of-fostering-viewpoint-diversity"
   source: "Chronicle of Higher Education"
   date: "2024-2-29"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -733,7 +778,7 @@
   link: "https://www.indystar.com/story/news/2024/02/26/senate-bill-202-receives-pushback-public-universities-indiana-purdue-ball-state-general-assembly/72743950007/"
   source: "IndyStar"
   date: "2024-2-26"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -742,7 +787,7 @@
   link: "https://www.jconline.com/story/news/local/indiana/2024/02/27/indianas-tenure-reform-bill-senate-bill-202-passes-house/72763371007/"
   source: "Journal & Courier"
   date: "2024-2-27"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -751,7 +796,7 @@
   link: "https://www.insidehighered.com/news/diversity/2024/03/15/civil-rights-groups-push-back-against-wave-anti-dei-bills"
   source: "Inside Higher Ed"
   date: "2024-3-15"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -760,7 +805,7 @@
   link: "https://www.insidehighered.com/news/quick-takes/2024/03/14/gov-signs-bill-tying-tenure-intellectual-diversity"
   source: "Inside Higher Ed"
   date: "2024-3-14"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -769,7 +814,7 @@
   link: "https://www.insidehighered.com/news/quick-takes/2024/03/04/bill-tying-tenure-intellectual-diversity-heads-governor"
   source: "Inside Higher Ed"
   date: "2024-3-4"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -778,7 +823,7 @@
   link: "https://www.insidehighered.com/news/faculty-issues/academic-freedom/2024/02/21/bill-threatens-profs-who-dont-give-intellectual"
   source: "Inside Higher Ed"
   date: "2024-2-21"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -787,7 +832,7 @@
   link: "https://bloomingtonian.com/2024/02/16/protest-against-indiana-senate-bill-202-advocates-warn-of-threat-to-public-universities-academic-freedom-and-student-recruitment/"
   source: "Inside Higher Ed"
   date: "2024-2-16"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -796,7 +841,7 @@
   link: "https://www.heraldtimesonline.com/story/opinion/columns/2024/02/16/columnist-writes-indianas-sb202-is-a-threat-to-public-higher-education/72585632007/"
   source: "Herald-Times"
   date: "2024-2-16"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -805,7 +850,7 @@
   link: "https://www.indystar.com/story/opinion/columnists/2024/02/16/senate-bill-202-indiana-republicans-want-conservative-universities/72617947007/"
   source: "IndyStar"
   date: "2024-2-16"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -814,7 +859,7 @@
   link: "https://iub-organizing-collective.github.io/content/files/SD23-16.approved.pdf"
   source: "Fort Wayne Senate"
   date: "2024-2-12"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Other Media"
   media: ""
 
@@ -823,7 +868,7 @@
   link: "https://iub-organizing-collective.github.io/content/files/Joint_IUB-PWL_AAUP_Statement_on_SB_202_(2-12-2024).pdf"
   source: "IUB AAUP/IUB Purdue-West Lafayette Chapters"
   date: "2024-2-12"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Formal statements"
   media: ""
 
@@ -832,7 +877,7 @@
   link: "https://indianapublicmedia.org/news/bill-would-hand-legislature-increased-control-over-state-universities.php"
   source: "Indiana Public Media"
   date: "2024-2-8"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -841,7 +886,7 @@
   link: "https://indianapublicmedia.org/news/iu-president-whitten-comes-out-against-controversial-tenure-bill.php"
   source: "Indiana Public Media"
   date: "2024-2-7"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -850,7 +895,7 @@
   link: "https://pen.org/six-dangerous-bills-that-would-censor-speech-on-campuses-across-the-country/"
   source: "PEN America"
   date: "2024-2-7"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -859,7 +904,7 @@
   link: "https://legiscan.com/IN/bill/SB0191/2024"
   source: "LegiScan"
   date: "2024-1-9"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -868,7 +913,7 @@
   link: "https://bloomingtonian.com/2024/02/06/controversial-indiana-senate-bill-sb202-threatens-alumni-representation-on-iu-board-of-trustees/"
   source: "Bloomingtonian"
   date: "2024-2-6"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -877,7 +922,7 @@
   link: "https://iga.in.gov/legislative/2024/bills/senate/202/details"
   source: "Indiana State Senate"
   date: "2024-3-1"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -886,7 +931,7 @@
   link: "https://indianacapitalchronicle.com/2024/02/07/conservative-friendly-higher-education-legislation-clears-senate/"
   source: "Indiana Capital Chronicle"
   date: "2024-2-7"
-  topic: "AcademicFreedom"
+  topic: "SB202"
   doctype: "Media Coverage"
   media: ""
 
@@ -924,6 +969,15 @@
   date: "2024-3-1"
   topic: ""
   doctype: "Formal statements"
+  media: "Sinno"
+
+- title: "AAUP Spring 2024 Report"
+  shortdesc: "Report by the Indiana University Bloomington Chapter of the AAUP regarding the suspension of Abdulkader Sinno, Relationships with Crane, and the cancellation of Samia Halaby's exhibit"
+  link: "https://iub-organizing-collective.github.io/content/files/AAUP_Report_Spring_2024.pdf"
+  source: "AAUP"
+  date: "2024-3-1"
+  topic: "Halaby"
+  doctype: "Formal statements"
   media: ""
 
 - title: "Letter to Indiana University regarding academic freedom violations against Professor Abdelkader Sinno and artist Samia Halaby"
@@ -931,7 +985,16 @@
   link: "https://mesana.org/advocacy/committee-on-academic-freedom/2024/01/16/letter-to-indiana-university-regarding-academic-freedom-violations-against-professor-abdelkader-sinno-and-artist-samia-halaby"
   source: "Middle East Studies Association"
   date: "2024-1-16"
-  topic: ""
+  topic: "Sinno"
+  doctype: "Open letters and testimonials"
+  media: ""
+
+- title: "Letter to Indiana University regarding academic freedom violations against Professor Abdelkader Sinno and artist Samia Halaby"
+  shortdesc: "Letter from the Middle East Studies Association Committee on Academic Freedom, re: the suspension of Abdulkader Sinno and Samia Halaby's exhibit cancellation"
+  link: "https://mesana.org/advocacy/committee-on-academic-freedom/2024/01/16/letter-to-indiana-university-regarding-academic-freedom-violations-against-professor-abdelkader-sinno-and-artist-samia-halaby"
+  source: "Middle East Studies Association"
+  date: "2024-1-16"
+  topic: "Halaby"
   doctype: "Open letters and testimonials"
   media: ""
 
@@ -940,7 +1003,16 @@
   link: "https://www.idsnews.com/article/2024/02/opinion-letter-palestine-israel-gaza-faculty-justice-academic-freedom-college-iu-bloomington"
   source: "Indiana Daily Student"
   date: "2024-2-8"
-  topic: ""
+  topic: "Sinno"
+  doctype: "Open letters and testimonials"
+  media: ""
+
+- title: "LETTER: An open letter from IU Academics for Justice in Palestine"
+  shortdesc: "Open letter submitted to the Indiana Daily Student by a member (anonymous) of the Faculty for Justice in Palestine Network"
+  link: "https://www.idsnews.com/article/2024/02/opinion-letter-palestine-israel-gaza-faculty-justice-academic-freedom-college-iu-bloomington"
+  source: "Indiana Daily Student"
+  date: "2024-2-8"
+  topic: "Halaby"
   doctype: "Open letters and testimonials"
   media: ""
 
@@ -985,7 +1057,16 @@
   link: "https://www.chronicle.com/article/when-a-threat-becomes-an-excuse-to-muzzle"
   source: "Chronicle of Higher Education"
   date: "2024-4-6"
-  topic: ""
+  topic: "Sinno"
+  doctype: "Media Coverage"
+  media: ""
+
+- title: "When a threat becomes an excuse to muzzle"
+  shortdesc: "A sweeping punishment, a canceled art show, and the silencing of pro-Palestinian voices"
+  link: "https://www.chronicle.com/article/when-a-threat-becomes-an-excuse-to-muzzle"
+  source: "Chronicle of Higher Education"
+  date: "2024-4-6"
+  topic: "Halaby"
   doctype: "Media Coverage"
   media: ""
 
@@ -1003,7 +1084,16 @@
   link: "https://www.commondreams.org/opinion/gaza-university-of-indiana-antisemitism"
   source: "Common Dreams"
   date: "2024-1-29"
-  topic: ""
+  topic: "Sinno"
+  doctype: "Media Coverage"
+  media: ""
+
+- title: "Prevarication on Pro-Palestinian Voices at Indiana University "
+  shortdesc: "If 'security' is the reason that pro-Palestinian voices are being silence on campus, the question must be asked: whose security? by IU professor Jeffrey C. Isaac"
+  link: "https://www.commondreams.org/opinion/gaza-university-of-indiana-antisemitism"
+  source: "Common Dreams"
+  date: "2024-1-29"
+  topic: "Halaby"
   doctype: "Media Coverage"
   media: ""
 

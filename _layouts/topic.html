@@ -1,0 +1,45 @@
+---
+layout: default
+format: topic
+---
+
+<div class="darkbg" style="margin-top:-10px;">
+<div class="grid-container">
+<h4 class="center darkbg header-thin">{{ site.subtitle }}</h4>
+<h1 class="center siteheader subheadline">{{ site.title }}</h1>
+</div>
+</div>
+
+
+<div class="grid-container">
+	<div class="grid-x grid-padding-x">
+		<div class="large-12 cell" markdown="1">
+			<!--page start-->
+
+{% assign header = site.data.grievances | where: 'topic', page.topic %}
+{% for headerinfo in header %}
+<h2>{{headerinfo.title}}</h2>
+
+<p>{{headerinfo.shortdesc}}
+
+{% endfor %}
+
+
+{% assign updatesGrouped = site.data.updates | where: 'topic', page.topic | group_by: "doctype" %}
+{% for groupname in updatesGrouped %}
+
+<h3>{{ groupname.name }}</h3>
+<ul>
+{% assign updatesGrouped = groupname.items | sort:"date" | reverse %}
+{% for update in updatesGrouped %}
+<li><a href="{{update.link}}" alt="{{update.title}}">{{update.title}}</a> ({{ update.date | date: "%b %d, %Y" }}). {% if update.shortdesc.size > 0 %}{{update.shortdesc}}{% endif %} {% if update.source.size > 0 %}<i>{{ update.source }}</i>{% endif %}</li>
+{% endfor %}
+</ul>
+{% endfor %}
+
+{{content}}
+
+			<!--page end-->
+		</div>
+	</div>
+</div>

@@ -1,0 +1,8 @@
+---
+title: Contact Us
+layout: page
+permalink: /contact.html
+---
+
+To contribute or get involved with this site, please email <a href="mailto:iub.org.collective@gmail.com">iub.org.collective[at]gmail.com</a>. Feel free to send anything you may think is relevant. If there are things going on that are not included here, please include a one sentence summary.
+

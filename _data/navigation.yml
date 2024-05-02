@@ -1,0 +1,29 @@
+# Site navigation links
+
+- title: News, Updates and Timeline
+  url: /
+  excerpt:
+  image:
+
+#- title: Get Involved
+#  url: /resources.html
+#  excerpt:
+#  image:
+
+- title: About & Resources
+  url: /resources.html
+  excerpt:
+  image:
+
+#- title: Preserve Your Story
+# 	What do we take
+# 	What can you do to save your own stuff
+# 	If you're willing, there are IU archivists that care about your stuff
+#  url: /contact.html
+#  excerpt:
+#  image:
+
+- title: Contact Us
+  url: /contact.html
+  excerpt:
+  image:

@@ -21,6 +21,7 @@ An April 16 all-faculty meeting resulted in votes of no confidence for 3 high-le
 <div class="grid-x grid-padding-x grid-margin-x">
 
 {% for grievance in site.data.grievances %}
+{% unless grievance.homepagedisplay == "no" %}
 <div class="cell filter-item small-12 medium-6 large-4 card">
 <div class="card-thumbnail">
 <a href="/content/{{ grievance.link }}" alt="{{grievance.title}}">
@@ -30,6 +31,7 @@ An April 16 all-faculty meeting resulted in votes of no confidence for 3 high-le
 <h4 class="card-contributor">{{ grievance.date | date: "%b %Y" }}</h4>
 <p class="card-desc">{{grievance.shortdesc}} (<a href="/content/{{grievance.link}}"  alt="{{grievance.title}}">read more...</a>)</p>
 </div>
+{% endunless %}
 {% endfor %}
 
 

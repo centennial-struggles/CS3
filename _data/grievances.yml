@@ -60,3 +60,11 @@
   date: "2021-09-14"
   shortdesc: "False accusations made and university procedures violated to eliminate a troublesome professor."
   topic: "McPhail"
+  
+- title: "Vote of No Confidence News"
+  link: "VoNC.html"
+  image: "/assets/img/VoNC.png"
+  date: "2024-04"
+  shortdesc: "An April 16, 2024, all-faculty meeting resulted in votes of no confidence for 3 high-level IU administrators"
+  topic: "VoNC"
+  homepagedisplay: "no"

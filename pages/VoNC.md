@@ -5,6 +5,7 @@ permalink: /content/VoNC.html
 topic: "VoNC"
 ---
 
+<!--
 ## Actions
 
 - <a href="https://www.indianagradworkers.org/all-updates/no-confidence-and-strike-readiness-vote">IU Grad Workers Vote “No Confidence” in IU President Pamela Whitten</a> [IGWC]
@@ -26,3 +27,4 @@ topic: "VoNC"
 - <a href="https://medium.com/@stevesan/you-have-no-idea-how-strange-this-process-has-been-the-difficult-search-for-iu-s-19th-president-f61b473014d4">‘You have no idea how strange this process has been’: The long, difficult search for IU’s 19th president</a> [Medium]
 - <a href="https://medium.com/@stevesan/ius-trustees-finally-own-up-to-their-violation-of-the-open-door-law-6981b57db55f">IU’s trustees finally own up to their violation of the Open Door Law</a> [Medium]
 - <a href="https://medium.com/@stevesan/ius-trustees-have-a-deep-aversion-to-transparency-and-a-recent-opinion-from-the-state-s-public-6c40101a5ee1">IU’s trustees have a deep aversion to transparency, and a recent opinion from the state’s Public Access Counselor makes the problem worse</a> [Medium]
+-->

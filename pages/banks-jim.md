@@ -5,6 +5,7 @@ permalink: /content/banks-jim.html
 topic: "SB202"
 ---
 
+<!--
 ## Public Statements Against Indiana Senate Bill 202
 
 - <a href="https://www.oah.org/2024/02/16/oah-submits-letter-of-concern-about-indiana-sb-202/">Organization of American Historians</a> February 16, 2024
@@ -59,3 +60,4 @@ topic: "SB202"
 
 - <a href="https://www.counterpunch.org/2022/09/02/under-attack-tenure-and-academic-freedom/">Under Attack: Tenure and Academic Freedom</a> (Whitten undermines tenure in Georgia) [Counterpunch]
 - <a href="https://www.idsnews.com/article/2024/02/palestine-solidarity-committee-vigil-palestinians-killed-gaza">Palestine Solidarity Committee holds vigil for Palestinians killed in Gaza</a> [IDS]
+-->

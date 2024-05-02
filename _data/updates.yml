@@ -1329,7 +1329,7 @@
   source: ""
   date: "2024-04-30"
   topic: "DunnMeadowProtests"
-  octype: "Open letters and testimonials"
+  doctype: "Open letters and testimonials"
   media: ""
 
 - title: "At Indiana University, Protests Only Add to a Year Full of Conflicts"
@@ -1338,5 +1338,5 @@
   source: "The New York Times"
   date: "2024-05-02"
   topic: "DunnMeadowProtests"
-  octype: "Media Coverage"
+  doctype: "Media Coverage"
   media: ""

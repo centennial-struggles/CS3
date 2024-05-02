@@ -67,6 +67,8 @@ The American Library Association has detailed guidelines on how to best preserve
 
 [To see their tips, click here.](https://web.archive.org/web/20231208092855/https://www.ala.org/alcts/preservationweek/howto/digital-preservation-tips/)
 
+**Fellow workers at IU Libraries are currently writing a guide for preserving digital files (pictures, videos, audio, etc.). Once that guide is released, we will post a link to it here.**
+
 <!--
 ## Who can I contact at IU Libraries that could help me talk through my options for preserving and disemminating materials? 
 

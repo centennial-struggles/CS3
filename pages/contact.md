@@ -59,7 +59,7 @@ We recommend uploading photographs to imgur.com, which will create a private lin
 
 ## Do you accept pdf files?
 
-We prefer to host materials that have circulated publicly. However, if you have a pdf that does not have a publicly accessible place to live, send us an email at iub.org.collective@gmail.com 
+We prefer to host materials that have circulated publicly. However, if you have a pdf that does not have a publicly accessible place to live, send us an email at [iub.org.collective@gmail.com](iub.org.collective@gmail.com) 
 
 ## What should I keep in mind as I steward and upload digital materials? 
 

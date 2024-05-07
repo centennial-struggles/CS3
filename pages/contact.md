@@ -17,6 +17,7 @@ The purpose of the IUB Organizing Hub is to provide a central repository for inf
 {:toc}
 -->
 <ul id="markdown-toc">
+      <li><a href="#what-should-i-think-about-before-i-start-saving-my-files" id="markdown-toc-what-should-i-think-about-before-i-start-saving-my-files">What should I think about before I start saving my files?</a></li>
       <li><a href="#what-kinds-of-materials-do-you-accept" id="markdown-toc-what-kinds-of-materials-do-you-accept">What kinds of materials do you accept?</a></li>
       <li><a href="#what-kind-of-materials-do-you-not-accept" id="markdown-toc-what-kind-of-materials-do-you-not-accept">What kind of materials do you not accept?</a></li>
       <li><a href="#how-do-i-create-a-publicly-accessible-link-for-photographs" id="markdown-toc-how-do-i-create-a-publicly-accessible-link-for-photographs">How do I create a publicly accessible link for photographs?</a></li>
@@ -24,6 +25,22 @@ The purpose of the IUB Organizing Hub is to provide a central repository for inf
       <li><a href="#do-you-accept-pdf-files" id="markdown-toc-do-you-accept-pdf-files">Do you accept pdf files?</a></li>
       <li><a href="#what-should-i-keep-in-mind-as-i-steward-and-upload-digital-materials" id="markdown-toc-what-should-i-keep-in-mind-as-i-steward-and-upload-digital-materials">What should I keep in mind as I steward and upload digital materials?</a></li>
 </ul>
+
+## What should I think about before I start saving my files?
+
+### Considerations for anonymity
+
+If your materials contain identifiable images of "private" citizens (e.g. students), you ***do*** need their permission. Permission from public servants acting on behalf of the state (e.g. police) ***is not required***. 
+
+If ***you wish to remain anonymous***, consider the following:
+- Make a new Gmail account that does not contain identifying information. Use the associated Google Drive to store digital files and to fill out form submissions
+- Remove the metadata from digital photos/videos you took with your own camera/smartphone with a service like [imageoptim](https://imageoptim.com/api)	
+
+### Places to submit
+
+The IU library faculty have developed a tip sheet *that you can access anonymously*. [This Google doc has [toolkits for activist archivers, suggestions for short-term and long-term storage for digital and physical objects, as well as file-naming info and storage help](https://docs.google.com/document/d/1RfodScb6sMbtizMvI7qrWSuHyPSxtA9sjpYCHZbWDQU/edit?usp=sharing).
+
+You can also contribute directly to the IU Archives if you are willing to share and have permissions from the folks who are identifiable in your submissions. [Click here to submit your materials](https://bit.ly/iuactivism).
 
 ## What kinds of materials do you accept? 
 We are currently accepting submissions of:

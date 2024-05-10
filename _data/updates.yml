@@ -1456,8 +1456,8 @@
   topic: "DunnMeadowProtests"
   doctype: "Media Coverage"
   media: ""
-
-- title: "AHA Statement on 2024 Campus Protests May 2024"
+  
+- title: "AHA Statement on 2024 Campus Protests"
   shortdesc: "The AHA has issued a statement “deplor[ing] recent decisions among college and university administrators to draw on local and state police forces to evict peaceful demonstrators.”
   link: "https://www.historians.org/news-and-advocacy/aha-advocacy/aha-statement-on-2024-campus-protests-(may-2024)"
   source: "American Historical Association"
@@ -1465,8 +1465,8 @@
   topic: "DunnMeadowProtests"
   doctype: "Formal statements"
   media: ""
-
-  - title: "In Defense of the Right to Free Speech and Peaceful Protest on University Campuses"
+  
+- title: "In Defense of the Right to Free Speech and Peaceful Protest on University Campuses"
   shortdesc: "The AAUP and its chapters defend the right to free speech and peaceful protest on university campuses, condemn the militarized response by institutional leaders to these activities, and vehemently oppose the politically motivated assault on higher education."
   link: "https://www.aaup.org/media-release/defense-right-free-speech-and-peaceful-protest-university-campuses"
   source: "American Association of University Professors" 
@@ -1475,7 +1475,7 @@
   doctype: "Formal statements"
   media: ""
 
-  - title: "Statement Concerning Police Action at Dunn Meadow"
+- title: "Statement Concerning Police Action at Dunn Meadow"
   shortdesc: "AAUP Indiana University Bloomington Chapter's statement responding to police action at Dunn Meadow."
   link: "https://aaup.sitehost.iu.edu/reports/Dunn_Meadow_Statement.pdf"
   source: "Executive Committee of the IU-Bloomington American Association of University Professors (AAUP)"
@@ -1484,7 +1484,7 @@
   doctype: "Formal statements"
   media: ""
 
-  - title: "I'm a former IU provost. Jim Banks should remember he represents professors, too."
+- title: "I'm a former IU provost. Jim Banks should remember he represents professors, too."
   shortdesc: "Open letter from former IU Provost asking Rep. Banks to exercise restraint and civility to IU faculty in light of his vilification and name-calling."
   link: "https://www.indystar.com/story/opinion/readers/2024/05/07/jim-banks-should-listen-to-iu-professors-he-represents-them-too/73585131007/"
   source: "Indianapolis Star"
@@ -1493,7 +1493,7 @@
   doctype: "Media Coverage"
   media: ""
 
-  - title: "Jim Banks lies about the IU protests — and about me
+- title: "Jim Banks lies about the IU protests — and about me
   shortdesc: "Jim Banks is a powerful Republican congressman who is likely to be elected in November as one of Indiana’s two U.S. Senators — unless Hoosiers wake up to the fact that his recent Star comments about IU Bloomington are lies."
   link: "https://www.indystar.com/story/opinion/readers/2024/05/03/jeffrey-c-isaac-jim-banks-iu-lies-threaten-academic-freedom/73548988007/"
   source: "Indianapolis Star"
@@ -1502,7 +1502,7 @@
   doctype: "Media Coverage"
   media: ""
   
-  - title: "The New Anti-Antisemitism"
+- title: "The New Anti-Antisemitism"
   shortdesc: "The response to college protests against the war on Gaza exemplifies the darkness of the Trumpocene. Mentions IU's Board of Trustee's hiring of a right-wing compliant president."
   link: "https://prospect.org/politics/2024-05-08-new-anti-antisemitism-college-protests-gaza/"
   source: "The American Prospect"

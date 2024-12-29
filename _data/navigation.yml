@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: News, Updates and Timeline
+- title: Maps
   url: /
   excerpt:
   image:
@@ -10,7 +10,7 @@
 #  excerpt:
 #  image:
 
-- title: About & Resources
+- title: Archives
   url: /resources.html
   excerpt:
   image:
@@ -23,7 +23,7 @@
 #  excerpt:
 #  image:
 
-- title: Contact Us
+- title: About
   url: /contact.html
   excerpt:
   image:

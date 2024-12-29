@@ -1,5 +1,5 @@
 /* SCSS HEX */
-$dark-red: #88abcf;
+$blue: #88abcf;
 $mid-grey: #bbbbbb;
 $white: #ffffff;
 $light-grey: #eeeeee;
@@ -8,19 +8,19 @@ $black: #000000;
 /** main color scheme **/
 $main-text-color: $black;
 $main-bg: $white;
-$main-link: $dark-red;
+$main-link: $blue;
 $main-link-hover: $black;
 $main-headers: $dark-red;
 
 /** dark-background color scheme **/
 $dark-text-color: $white;
-$dark-bg: $dark-red;
+$dark-bg: $blue;
 $dark-link: $light-grey;
 $dark-link-hover: $mid-grey;
 $dark-headers: $light-grey;
 
 /** accent-background color scheme **/
-$accent-text-color: $dark-red;
+$accent-text-color: $blue;
 $accent-bg: $light-grey;
 $accent-link: $black;
 $accent-link-hover: $mid-grey;

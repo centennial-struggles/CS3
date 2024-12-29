@@ -105,7 +105,7 @@ body {
   padding: 0;
   list-style: none;
   overflow: hidden;
-  background-color: #990000;
+  background-color: #c4def2;
   display: block;
 				white-space: nowrap;
 				word-wrap: nowrap;
@@ -120,7 +120,7 @@ body {
   display: inline-block;
   padding: 20px 20px;
   text-decoration: none;
-  background-color: #990000;
+  background-color: #c4def2;
   color: #EDEBEB;
   font-size:calc(15px + 0.390625vw);
   white-space:nowrap;
@@ -132,7 +132,7 @@ body {
   text-decoration: underline;
   color: #EDEBEB;
   font-size:calc(15px + 0.390625vw);
-	background-color: #990000;
+	background-color: #c4def2;
 }
 
 .header .logo {
@@ -146,7 +146,7 @@ body {
   top:0;
   left:0;
   border-right: 1px none;
-	background-color: #990000;
+	background-color: #c4def2;
 
 }
 
@@ -156,7 +156,7 @@ body {
   clear: both;
   max-height: 0;
   transition: max-height .2s ease-out;
-	background-color: #990000;
+	background-color: #c4def2;
 }
 
 /* menu icon */
@@ -169,7 +169,7 @@ body {
   position: relative;
   user-select: none;
   font-color:#EDEBEB;
-	background-color: #990000;
+	background-color: #c4def2;
 }
 
 .header .menu-icon .navicon {
@@ -180,7 +180,7 @@ body {
   transition: background .2s ease-out;
   width: 18px;
   color:#EDEBEB;
-	background-color: #990000;
+	background-color: #c4def2;
 }
 
 .header .menu-icon .navicon:before,
@@ -193,7 +193,7 @@ body {
   transition: all .2s ease-out;
   width: 100%;
   color:#EDEBEB;
-	background-color: #990000;
+	background-color: #c4def2;
 }
 
 .header .menu-icon .navicon:before {
@@ -212,12 +212,12 @@ body {
 .header .menu-btn {
   display: none;
   color:#EDEBEB;
-	background-color: #990000;
+	background-color: #c4def2;
 }
 
 .header .menu-btn:checked ~ .menu {
   max-height: 240px;
-	background-color: #990000;
+	background-color: #c4def2;
 }
 
 .header .menu-btn:checked ~ .menu-icon .navicon {

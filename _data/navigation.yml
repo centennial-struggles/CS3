@@ -11,7 +11,7 @@
 #  image:
 
 - title: Maps
-  url: /maps.html
+  url: /maps.md
   excerpt:
   image:
 
@@ -29,7 +29,7 @@
 #  image:
 
 - title: Contribute
-  url: /contribute.html
+  url: /contribute.md
   excerpt:
   image:
 

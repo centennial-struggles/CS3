@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: Maps
+- title: Home
   url: /
   excerpt:
   image:
@@ -9,6 +9,11 @@
 #  url: /resources.html
 #  excerpt:
 #  image:
+
+- title: Maps
+  url: /maps.html
+  excerpt:
+  image:
 
 - title: Archives
   url: /resources.html
@@ -22,6 +27,11 @@
 #  url: /contact.html
 #  excerpt:
 #  image:
+
+- title: Contribute
+  url: /contribute.html
+  excerpt:
+  image:
 
 - title: About
   url: /contact.html

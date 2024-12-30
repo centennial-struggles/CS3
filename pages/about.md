@@ -1,7 +1,7 @@
 ---
 title: Get Involved
 layout: page
-permalink: /resources.html
+permalink: /about.html
 ---
 
 This site acts as a hub for news, media, petitions, and events around injustice on the campus of Indiana University Bloomington (IUB). This site is collectively managed by the Indiana University Bloomington Organizing Collective (IUB-OC), a loosely affiliated group composed of faculty, graduate students, undergraduates, and alumni from IUB.

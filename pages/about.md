@@ -1,5 +1,5 @@
 ---
-title: Get Involved
+title: About
 layout: page
 permalink: /about.html
 ---
